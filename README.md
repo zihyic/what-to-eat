@@ -85,3 +85,11 @@ curl "localhost:5000/api/restaurants?mood=fun"
 ## Visualizations
 
 ![Entity-relationship diagram — 7 tables in BCNF](visuals/whattoeat_erd.png)
+
+## More Results
+
+![REST API map — 16 endpoints](visuals/whattoeat_api_map.png)
+
+![Seed data: meal options by cuisine](visuals/whattoeat_seed_cuisine.png)
+
+![Fridge-to-recipe flow](visuals/whattoeat_fridge_flow.png)
