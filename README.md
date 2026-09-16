@@ -81,3 +81,7 @@ curl localhost:5000/api/fridge
 curl -X POST localhost:5000/api/options/recommend
 curl "localhost:5000/api/restaurants?mood=fun"
 ```
+
+## Visualizations
+
+![Entity-relationship diagram — 7 tables in BCNF](visuals/whattoeat_erd.png)
